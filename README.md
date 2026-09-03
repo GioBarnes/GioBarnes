@@ -5,7 +5,8 @@ I am a current Senior Cybersecurity Management Major and AI Applications minor w
 I am currently working on designing a fully developed enterprise network to showcase my skills and learn more on how to design secure digital infrastructures. I am also seeking an internship/entry-level role in security operations, engineering, pentesting, IT, and cloud security. 
 
 * 🌍  I'm based in United States
-* ✉️  You can contact me at [giobarnes1@gmail.com](mailto:giobarnes1@gmail.com )  <br>             
+* ✉️  You can contact me at [giobarnes1@gmail.com](mailto:giobarnes1@gmail.com )
+* 🖥️  For business inquiries, contact me at [contact@cysensecurewave.com](mailto:contact@cysensecurewave.com) <br>             
 
 ## Skills:
 
